@@ -22,6 +22,6 @@
 
 
 ## How to reach me
-<a href="https://t.me/masturdating" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
-<a href="https://linkedin.com/in/ali-ghodousi/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32"/></a>
+<a href="https://t.me/SYadollahzadeh" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
+<a href="https://linkedin.com/in/sajjad-yadollahzadeh-b0200999/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32"/></a>
 
